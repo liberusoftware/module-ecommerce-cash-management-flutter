@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cash-management-flutter",
+  "capabilityKey": "planned:ecommerce:cash-management",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_cash_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/cash-management.md",
+  "presentationPlan": "projects/ecommerce/flutter/cash-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
